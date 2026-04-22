@@ -1,0 +1,111 @@
+{
+  "gestures": {
+    "fist": {
+      "name": "Puño cerrado",
+      "action": "media_play_pause",
+      "description": "Todos los dedos cerrados"
+    },
+    "open_hand": {
+      "name": "Mano abierta",
+      "action": "screenshot",
+      "description": "Todos los dedos extendidos"
+    },
+    "pointing_up": {
+      "name": "Dedo índice arriba",
+      "action": "volume_up",
+      "description": "Solo índice extendido hacia arriba"
+    },
+    "pointing_down": {
+      "name": "Dedo índice abajo",
+      "action": "volume_down",
+      "description": "Solo índice extendido hacia abajo"
+    },
+    "peace": {
+      "name": "Señal de paz (V)",
+      "action": "scroll_up",
+      "description": "Índice y medio extendidos"
+    },
+    "thumbs_up": {
+      "name": "Pulgar arriba",
+      "action": "brightness_up",
+      "description": "Solo pulgar extendido hacia arriba"
+    },
+    "thumbs_down": {
+      "name": "Pulgar abajo",
+      "action": "brightness_down",
+      "description": "Solo pulgar extendido hacia abajo"
+    },
+    "three_fingers": {
+      "name": "Tres dedos",
+      "action": "next_window",
+      "description": "Índice, medio y anular extendidos"
+    },
+    "pinch": {
+      "name": "Pellizco",
+      "action": "scroll_down",
+      "description": "Pulgar e índice juntos"
+    },
+    "call_me": {
+      "name": "Llamame",
+      "action": "open_browser",
+      "description": "Pulgar y menique extendidos"
+    },
+    "four_fingers": {
+      "name": "Cuatro dedos",
+      "action": "show_desktop",
+      "description": "Indice, medio, anular y menique extendidos"
+    },
+    "rock": {
+      "name": "Rock",
+      "action": "media_play_pause",
+      "description": "Indice y menique extendidos"
+    },
+    "gun": {
+      "name": "Pistola",
+      "action": "screenshot",
+      "description": "Pulgar e indice extendidos"
+    },
+    "ok": {
+      "name": "OK",
+      "action": "zoom_reset",
+      "description": "Pulgar y medio extendidos"
+    },
+    "spock": {
+      "name": "Spock",
+      "action": "virtual_desktop_next",
+      "description": "Cuatro dedos con separacion entre medio y anular"
+    },
+    "crossed": {
+      "name": "Cruzado",
+      "action": "lock_screen",
+      "description": "Indice y anular extendidos (saltando medio)"
+    },
+    "pinky_up": {
+      "name": "Menique arriba",
+      "action": "close_tab",
+      "description": "Solo menique extendido"
+    }
+  },
+  "settings": {
+    "camera_index": 0,
+    "detection_confidence": 0.7,
+    "gesture_cooldown": 1.0,
+    "show_landmarks": true,
+    "show_fps": true,
+    "volume_step": 5,
+    "brightness_step": 10,
+    "scroll_amount": 3
+  },
+  "custom_actions": {
+    "open_browser": "https://www.google.com",
+    "custom_shortcut": "ctrl+alt+t"
+  },
+  "custom_links": {
+    "link_1": "", "link_2": "", "link_3": "", "link_4": "", "link_5": "",
+    "link_6": "", "link_7": "", "link_8": "", "link_9": "", "link_10": ""
+  },
+  "custom_commands": {
+    "cmd_1": "", "cmd_2": "", "cmd_3": "", "cmd_4": "", "cmd_5": "",
+    "cmd_6": "", "cmd_7": "", "cmd_8": "", "cmd_9": "", "cmd_10": ""
+  }
+}
